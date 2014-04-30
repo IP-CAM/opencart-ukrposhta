@@ -10,11 +10,11 @@
  * http://www.gnu.org/copyleft/gpl.html
  * If you did not receive a copy of the license and are unable to
  * obtain it through the world-wide-web, please send an email
- * to license@opencart-ua.org so we can send you a copy immediately.
+
  *
  * @category   OpenCart
  * @package    OCU Ukrposhta
- * @copyright  Copyright (c) 2011 Eugene Kuligin by OpenCart Ukrainian Community (http://opencart-ua.org)
+ * @copyright  Copyright (c) 2011 Eugene Lifescale by OpenCart Ukrainian Community (http://opencart-ukraine.tumblr.com)
  * @license    http://www.gnu.org/copyleft/gpl.html     GNU General Public License, Version 3
  * @version    $Id: catalog/language/shipping/ocu_ukrposhta.php 1.2 2011-12-11 22:34:40
  */
@@ -57,10 +57,10 @@ $_['ocu_ukrposhta_text_about_tab_description'] =
 <br />
 The module provides ability to deliver services of &quot;Ukrposhta&quot;
 <br /><br />
-Powered by <a href="http://opencart-ua.org" target="_blank">OpenCart Ukrainian Community</a><br />
+Powered by <a href="http://opencart-ukraine.tumblr.com" target="_blank">OpenCart Ukrainian Community</a><br />
 This work is licensed by <a href="http://www.gnu.org/copyleft/gpl.html" target="_blank">GNU General Public License, Version 3</a><br /><br />
 Current version: %s<br /><br />
-<a href="http://opencart-ua.org" target="_blank">Pro</a> | <a Project pageef="http://forum.opencart-ua.org" target="_blank">Support center</a> | <a href="http://opencart-ua.org/contact" target="_blank">Contact us</a>';
+<a href="http://opencart-ukraine.tumblr.com" target="_blank">Pro</a>';
 
 // Error
 $_['ocu_ukrposhta_error_permission'] = 'You do not have the authority to change the settings of the module!';
